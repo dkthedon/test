@@ -1,9 +1,0 @@
-C:\Users\dharmendrakhanna\Downloads\Mine\Training\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.Web.dll
-C:\Users\dharmendrakhanna\Downloads\Mine\Training\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.Web.pdb
-C:\Users\dharmendrakhanna\Downloads\Mine\Training\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.BLL.dll
-C:\Users\dharmendrakhanna\Downloads\Mine\Training\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.DAL.dll
-C:\Users\dharmendrakhanna\Downloads\Mine\Training\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.BLL.pdb
-C:\Users\dharmendrakhanna\Downloads\Mine\Training\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.DAL.pdb
-C:\Users\dharmendrakhanna\Downloads\Mine\Training\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Release\Nagarro.EmployeePortal.Web.csprojResolveAssemblyReference.cache
-C:\Users\dharmendrakhanna\Downloads\Mine\Training\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Release\Nagarro.EmployeePortal.Web.dll
-C:\Users\dharmendrakhanna\Downloads\Mine\Training\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Release\Nagarro.EmployeePortal.Web.pdb
