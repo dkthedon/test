@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="QuestionPortal.Web.MasterPage" EnableTheming="true" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Discussion Portal</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div>
+    <form id="form1" runat="server">
+         <div id="Div1" class="headerDiv" runat="server" align="center" >
+            <div runat="server" id="divHome" class="menuDiv" onclick="window.location.assign('Home.aspx')" style="margin-left:250px;">
+                <asp:Label runat="server" ID="lblHome" Text="Home" CssClass="menuLabel"></asp:Label>
+            </div>
+        <div runat="server" id="divUsers" class="menuDiv" onclick="window.location.assign('ManageUsers.aspx')">
+            <asp:Label  runat="server" ID="lblQuestions" Text="Users" CssClass="menuLabel"></asp:Label>
+        </div>
+        <div runat="server" id="divPostQuestion" class="menuDiv" onclick="window.location.assign('Post.aspx')">
+            <asp:Label runat="server" ID="lblPostQuestions" Text="Post" CssClass="menuLabel"></asp:Label>
+        </div>
+        <div runat="server" id="divMyQuestions" class="menuDiv" onclick="window.location.assign('MyQuestions.aspx')">
+            <asp:Label runat="server" Text="My Questions" CssClass="menuLabel"></asp:Label>
+        </div>
+        <div runat="server" id="divContact" class="menuDiv"  onclick="window.location.assign('Contact.aspx')">
+            <asp:Label runat="server" ID="lblContact" Text="Contact" CssClass="menuLabel"></asp:Label>
+        </div>
+             <asp:DropDownList runat="server" ID="ddlMenuList" AutoPostBack="true" OnSelectedIndexChanged="ddlMenuList_SelectedIndexChanged" CssClass="menuList">
+                 <asp:ListItem Enabled="true" Text="Account" Value="1" ></asp:ListItem>
+                 <asp:ListItem Enabled="true" Text="Edit Profile" Value="2"></asp:ListItem>
+                 <asp:ListItem Enabled="true" Text="Log out" Value="3"></asp:ListItem>
+             </asp:DropDownList>
+        </div>
+        <asp:ContentPlaceHolder ID="PageHolder" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+    </div>
+                  <div class="footerDiv" align="center">
+                   <asp:Label ID="Label1" runat="server">© Copyright 2014 MNNIT Allahbad</asp:Label>
+              </div>
+</body>
+</html>

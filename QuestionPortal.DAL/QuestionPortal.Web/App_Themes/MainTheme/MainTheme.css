@@ -1,0 +1,141 @@
+﻿body {
+    background-color: cornflowerblue;
+}
+.loginDiv
+{
+    height: 200px;
+    width: 300px;
+    background-color: azure;
+    margin-top: 100px;
+    border: outset 1px white;
+    padding-top: 50px;
+    border-radius: 15px;
+}
+.footerDiv
+{
+    height: auto;
+    width: 99%;
+    background-color: azure;
+    position: absolute;
+    top: 97vh;
+}
+.headerDiv
+{
+    height: 100px;
+    width: auto;
+    align-content: center;
+}
+.menuDiv
+{
+    position: relative;
+    float: left;
+    height: 100px;
+    width: 100px;
+    background-color: darkturquoise;
+    margin-left: 20px;
+    top: 0px;
+    border-radius: 5px;
+    transition-property: all;
+    transition-duration: 0.8s;
+    transition-timing-function: linear;
+}
+    .menuDiv:hover
+    {
+        background-color: deeppink;
+        transform:rotate(360deg);
+    }
+.questionDiv
+{
+    width: 900px;
+    height: 120px;
+    background-color: darkturquoise;
+    border-radius: 7px;
+    margin-bottom: 20px;
+}
+    .questionDiv:hover
+    {
+        background-color: transparent;
+        border: solid 1px;
+    }
+.questionPageDiv
+{
+    height: auto;
+    width: 950px;
+    background-color: aliceblue;
+    margin-top: 20px;
+    float: inherit;
+}
+.answerDiv
+{
+    height: auto;
+    width: 800px;
+    background-color: darkturquoise;
+    margin-bottom: 20px;
+    border-radius: 7px;
+}
+.menuLabel
+{
+   position: relative;
+   top: 35px;
+   font-size: 20px;
+   font: bold;
+}
+.menuList
+{
+    height: 60px;
+    width: 100px;
+    background-color: darkturquoise;
+    border: outset 1px black;
+    border-radius: 5px;
+}
+.textBox
+{
+    border-radius: 5px;
+    border: outset 1px azure;
+    height: 20px;
+    width: 250px;
+}
+.textBox:hover
+{
+    border: inset 1px red;
+}
+
+.floatLeft
+{
+    float: left;
+}
+
+.floatRight
+{
+    float: right;
+}
+.addButton
+{
+    height: 30px;
+    float: right;
+    width: 150px;
+    background-color: darkturquoise;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+    .addButton:hover
+    {
+        background-color: deeppink;
+    }
+.button
+{
+    height: 40px;
+    width: 150px;
+    background-color: darkturquoise;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+    .button a:focus
+    {
+        background-color: deeppink;
+    }
+
+    .button:hover
+    {
+        background-color: deeppink;
+    }
