@@ -1,7 +1,0 @@
-D:\Test\QuestionPortal.DAL\QuestionPortal.BLL\obj\Debug\QuestionPortal.BLL.csprojResolveAssemblyReference.cache
-D:\Test\QuestionPortal.DAL\QuestionPortal.BLL\bin\Debug\QuestionPortal.BLL.dll
-D:\Test\QuestionPortal.DAL\QuestionPortal.BLL\bin\Debug\QuestionPortal.BLL.pdb
-D:\Test\QuestionPortal.DAL\QuestionPortal.BLL\bin\Debug\QuestionPortal.DAL.dll
-D:\Test\QuestionPortal.DAL\QuestionPortal.BLL\bin\Debug\QuestionPortal.DAL.pdb
-D:\Test\QuestionPortal.DAL\QuestionPortal.BLL\obj\Debug\QuestionPortal.BLL.dll
-D:\Test\QuestionPortal.DAL\QuestionPortal.BLL\obj\Debug\QuestionPortal.BLL.pdb
