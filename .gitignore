@@ -1,10 +1,10 @@
 QuestionPortal.DAL/packages/
 QuestionPortal.DAL/QuestionPortal.Web/bin/
-QuestionPortal.DAL/.vs/config/
 QuestionPortal.DAL/.vs/
 QuestionPortal.DAL/QuestionPortal.Web/obj/
 QuestionPortal.DAL/QuestionPortal.BLL/bin/
 QuestionPortal.DAL/QuestionPortal.BLL/obj/
+QuestionPortal.DAL/QuestionPortal.DAL/obj/
+QuestionPortal.DAL/QuestionPortal.DAL/bin/
 *.dll
 *.pdb
-QuestionPortal.DAL/QuestionPortal.DAL/obj/Debug/QuestionPortal.DAL.csproj.FileListAbsolute.txt
